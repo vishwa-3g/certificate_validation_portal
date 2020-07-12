@@ -2,9 +2,11 @@
 Greetings folks,
 This repo contains a website bulti for certificate validation which is made using NODE JS and MongoDB Technology.  
 
+## Developed on follwoing link
+ **https://bitly.com/pycet**
 ____
 
-### Validation Portal 
+### About the Project 
 > **Here's what you can see**  
 * Home page where you add your certificate number and Lastname to verify the certificate
 * This has Success and Failure pages post validation to notify users about it. 
