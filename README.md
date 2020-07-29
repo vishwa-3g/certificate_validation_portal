@@ -2,7 +2,7 @@
 Greetings folks,
 This repo contains a website bulti for certificate validation which is made using NODE JS and MongoDB Technology.  
 
-## Deployed on follwoing link
+## Deployed on following link
  **https://bitly.com/pycet**
 ____
 
